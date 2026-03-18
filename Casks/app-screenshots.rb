@@ -7,7 +7,7 @@ cask "app-screenshots" do
   desc "Design beautiful App Store & Google Play screenshots"
   homepage "https://github.com/truongduy2611/app-screenshots"
 
-  app "App Screenshots.app"
+  app "AppScreenshots.app"
 
   zap trash: [
     "~/.config/app-screenshots",
